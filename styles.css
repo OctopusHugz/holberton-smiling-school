@@ -1,0 +1,6 @@
+:root {
+	--button-hover-active-opacity: 0.9;
+	/* Switch to tablet view when screen width is 768px */
+	/* Switch to mobile view when screen width is 576px */
+}
+
