@@ -4,13 +4,16 @@
 	/* Switch to mobile view when screen width is 576px */
 }
 
+body {
+	font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 .hero-section {
 	height: 1386px;
 	background-image: url(images/pic_1.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: 42%;
-	border-radius: 0;
 }
 
 .nav-container {
@@ -19,4 +22,38 @@
 
 .nav-list {
 	font-size: 12px;
+}
+
+
+.hero-section-title {
+	font-size: 61px;
+	line-height: 77px;
+	margin-top: 176px;
+}
+
+.hero-subtitles {
+	width: 67.46%;
+}
+
+.cta-btn {
+	width: 162px;
+	height: 44px;
+	font-size: 14px;
+	background-color: #C271FF;
+	border-radius: 1.5rem;
+	margin-top: 38px;
+}
+
+.lfp-text {
+	margin-top: 150px;
+}
+
+
+.lfp-header {
+	font-size: 2rem;
+	line-height: 40px;
+}
+
+.lfp-text-verb {
+	color: #C271FF;
 }
