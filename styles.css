@@ -4,3 +4,19 @@
 	/* Switch to mobile view when screen width is 576px */
 }
 
+.hero-section {
+	height: 1386px;
+	background-image: url(images/pic_1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 42%;
+	border-radius: 0;
+}
+
+.nav-container {
+	padding-top: 38px;
+}
+
+.nav-list {
+	font-size: 12px;
+}
