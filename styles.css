@@ -57,3 +57,22 @@ body {
 .lfp-text-verb {
 	color: #C271FF;
 }
+
+.pros-section {
+	margin-top: 87px;
+}
+
+.pro-pic img {
+	height: 150px;
+	width: 150px;
+}
+
+.pro-name {
+	margin-top: 10px;
+}
+
+.pro-award {
+	width: 150px;
+	height: 8rem;
+	margin-top: 2px;
+}
