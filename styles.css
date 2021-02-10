@@ -144,7 +144,6 @@ button {
 	}
 
 	.quote-carousel-section {
-		background-color: #C271FF;
 		height: 392px;
 	}
 
@@ -173,16 +172,39 @@ button {
 	.pros-section {
 		max-width: 1009px;
 	}
+
+	.carousel-inner {
+		padding-top: 108px;
+	}
+
+	.quote-carousel-section {
+		height: 392px;
+	}
+
+	.quote-carousel-caption {
+		width: 730px;
+		margin-left: 34px;
+		margin-right: 237px;
+	}
+
+	[class^="carousel-control"] {
+		top: 156.51px;
+		bottom: auto;
+	}
+
+	.carousel-control-prev {
+		left: 56.48px;
+	}
+
+	.carousel-control-next {
+		right: 56.48px;
+	}
+
+	.img-container {
+		margin-left: 260px;
+	}
 }
 
-/* Tablet & Desktop Media Query */
-/* @media (min-width: 577px) {
-	.hero-section-title {
-		font-size: 120px;
-		line-height: 150.84px;
-		margin-top: 156px;
-	}
-} */
 
 /* Pros Section Media Queries */
 @media (min-width: 480px) {
@@ -208,10 +230,3 @@ button {
 		margin-top: 156px;
 	}
 }
-
-/* @media (min-width: 768px) {
-	.hero-section {
-		height: 1093px;
-	}
-}
- */
