@@ -138,6 +138,29 @@ button {
 	.pros-section {
 		max-width: 694px;
 	}
+
+	.carousel-inner {
+		padding-top: 75px;
+	}
+
+	.quote-carousel-section {
+		background-color: #C271FF;
+		height: 392px;
+	}
+
+	.quote-carousel-caption {
+		width: 370px;
+		margin-left: 34px;
+	}
+
+	[class^="carousel-control"] {
+		top: 156.51px;
+		bottom: auto;
+	}
+
+	.img-container {
+		margin-left: 101px;
+	}
 }
 
 /* Desktop Media Query */
