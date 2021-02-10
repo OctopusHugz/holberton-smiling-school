@@ -203,6 +203,20 @@ button {
 	margin-right: 22px;
 }
 
+.popular-tutorials-section [class^="carousel-control"] {
+	height: 62.67px;
+	width: 29.04px;
+	top: 326.51px;
+}
+
+.popular-tutorials-section .carousel-control-prev {
+	left: 14px;
+}
+
+.popular-tutorials-section .carousel-control-next {
+	right: 14px;
+}
+
 /* Tablet Media Query */
 
 @media (min-width: 577px) and (max-width: 768px) {
