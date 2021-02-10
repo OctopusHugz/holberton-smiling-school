@@ -240,7 +240,7 @@ button {
 	margin-top: 50px;
 }
 
-.fm-smiles button {
+.fm-smiles-btn button {
 	margin-top: 82px;
 }
 
@@ -289,6 +289,14 @@ button {
 
 	.popular-tutorials-section .card:first-child {
 		margin-right: 30px;
+	}
+
+	.free-membership-section {
+		height: 713px;
+	}
+
+	.fm-smiles-btn button {
+		margin-top: 75px;
 	}
 }
 
@@ -347,6 +355,14 @@ button {
 	.popular-tutorials-section .card:nth-child(3) {
 		margin-right: 30px;
 	}
+
+	.free-membership-section {
+		height: 713px;
+	}
+
+	.fm-smiles-btn button {
+		margin-top: 85px;
+	}
 }
 
 
@@ -372,5 +388,12 @@ button {
 		font-size: 120px;
 		line-height: 150.84px;
 		margin-top: 156px;
+	}
+}
+
+
+@media (min-width: 1200px) {
+	.free-membership-section {
+		height: 502px;
 	}
 }
