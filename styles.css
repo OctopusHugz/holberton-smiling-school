@@ -61,6 +61,7 @@ button {
 .lfp-header {
 	font-size: 2rem;
 	line-height: 40px;
+	font-weight: 300;
 }
 
 .lfp-text-verb {
@@ -128,23 +129,78 @@ button {
 	margin-top: 22px;
 }
 
-.card {
-	width: 255px;
-	height: 335px;
-}
 
 .mpt-text {
-	margin-top: 150px;
+	margin-top: 87px;
+	color: #071629;
 }
-
 
 .mpt-header {
 	font-size: 2rem;
 	line-height: 40px;
+	font-weight: 300;
 }
 
 .mpt-text-verb {
 	color: #C271FF;
+}
+
+.card {
+	width: 255px;
+	height: 335px;
+	margin-top: 75px;
+	margin-bottom: 87px;
+	border: none;
+}
+
+.card-img-top {
+	position: relative;
+}
+
+.play-button {
+	position: absolute;
+	left: 96px;
+	top: 45px;
+}
+
+.card-body {
+	height: 181px;
+	padding: 0 0 0 13px;
+}
+
+.card-title {
+	color: #071629;
+	font-size: 1rem;
+	line-height: 20px;
+	padding-top: 18px;
+}
+
+.card-text {
+	color: rgba(7, 22, 41, 0.501584);
+	font-size: 14px;
+	line-height: 24px;
+	margin-top: 7.6px;
+}
+
+.card-bottom-info {
+	margin-top: 13.4px;
+}
+
+.mpt-avatar {
+	width: 30px;
+	height: 30px;
+	margin-right: 13px;
+}
+
+.mpt-avatar-name {
+	color: #C271FF;
+	font-size: 14px;
+	font-weight: 600;
+	line-height: 27px;
+}
+
+.card-bottom-footer {
+	margin-right: 22px;
 }
 
 /* Tablet Media Query */
