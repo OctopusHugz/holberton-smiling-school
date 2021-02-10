@@ -308,6 +308,20 @@ button {
 	.quote-carousel-section .img-container {
 		margin-left: 260px;
 	}
+
+	.popular-tutorials-section .carousel-control-prev {
+		left: 106.48px;
+	}
+
+	.popular-tutorials-section .carousel-control-next {
+		right: 106.48px;
+	}
+
+	.popular-tutorials-section .card:nth-child(1),
+	.popular-tutorials-section .card:nth-child(2),
+	.popular-tutorials-section .card:nth-child(3) {
+		margin-right: 30px;
+	}
 }
 
 
