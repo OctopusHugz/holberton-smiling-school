@@ -98,6 +98,31 @@ button {
 	margin-top: 2px;
 }
 
+/* Quote Carousel Section */
+.quote-carousel-section {
+	background-color: #C271FF;
+	height: 591px;
+}
+
+.carousel-inner {
+	padding-top: 91px;
+}
+
+.img-container {
+	width: 148px;
+	height: 148px;
+}
+
+.quote-carousel-caption-text,
+.quote-carousel-caption-name {
+	font-size: 22px;
+	line-height: 34px;
+}
+
+.quote-carousel-caption-name {
+	margin-top: 22px;
+}
+
 /* Tablet Media Query */
 
 @media (min-width: 577px) and (max-width: 768px) {
