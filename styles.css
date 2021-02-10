@@ -12,6 +12,10 @@ button {
 	filter: drop-shadow(0px 2px 20px rgba(0, 0, 0, 0.5));
 }
 
+[class^="carousel-control"] {
+	opacity: 1;
+}
+
 .hero-section {
 	height: 1386px;
 	background-image: url(images/pic_1.jpg);
@@ -248,6 +252,18 @@ button {
 
 	.quote-carousel-section .img-container {
 		margin-left: 101px;
+	}
+
+	.popular-tutorials-section .carousel-control-prev {
+		left: 38.48px;
+	}
+
+	.popular-tutorials-section .carousel-control-next {
+		right: 38.48px;
+	}
+
+	.popular-tutorials-section .card:first-child {
+		margin-right: 30px;
 	}
 }
 
