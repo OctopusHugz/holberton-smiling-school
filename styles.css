@@ -221,6 +221,31 @@ button {
 	right: 14px;
 }
 
+.free-membership-section {
+	background: #071629;
+	height: 1142px;
+}
+
+.fm-text {
+	padding-top: 75px;
+	font-size: 2rem;
+	line-height: 40px;
+}
+
+.fm-header {
+	font-weight: 300;
+}
+
+.fm-smiles svg {
+	margin-top: 50px;
+}
+
+.fm-smiles button {
+	margin-top: 82px;
+}
+
+/*** MEDIA QUERIES  ***/
+
 /* Tablet Media Query */
 
 @media (min-width: 577px) and (max-width: 768px) {
