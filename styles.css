@@ -108,6 +108,11 @@ button {
 	padding-top: 91px;
 }
 
+[class^="carousel-control"] {
+	top: 133.51px;
+	bottom: auto;
+}
+
 .img-container {
 	width: 148px;
 	height: 148px;
