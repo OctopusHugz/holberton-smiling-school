@@ -244,6 +244,30 @@ button {
 	margin-top: 82px;
 }
 
+.footer {
+	height: 249px;
+	background: #071629;
+}
+
+.footer-icon-container {
+	padding-top: 50px;
+	height: 30px;
+}
+
+.footer-social-icons {
+	width: 130px;
+	margin-top: 75px;
+}
+
+.copyright {
+	height: 15px;
+	margin-top: 45px;
+	font-size: 12px;
+	line-height: 15px;
+	mix-blend-mode: normal;
+	opacity: 0.35;
+}
+
 /*** MEDIA QUERIES  ***/
 
 /* Tablet Media Query */
