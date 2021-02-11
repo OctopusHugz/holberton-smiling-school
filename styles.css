@@ -444,6 +444,16 @@ hr {
 	.monthly-price {
 		margin-bottom: 62px;
 	}
+
+	.signal-text {
+		width: 210px;
+	}
+
+	/* .grid-body .row:nth-child(1),
+	.grid-body .row:nth-child(2),
+	.grid-body .row:nth-child(3) {
+		height: 82px;
+	} */
 }
 
 /* Desktop Media Query */
@@ -543,6 +553,10 @@ hr {
 
 	.monthly-price {
 		margin-bottom: 62px;
+	}
+
+	.signal-text {
+		width: 350px;
 	}
 }
 
