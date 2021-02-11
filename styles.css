@@ -366,6 +366,12 @@ hr {
 	padding-top: 74px;
 }
 
+/* .faq-block {
+	max-width: 342px;
+	margin-left: auto;
+	margin-right: auto;
+} */
+
 .faq-block-title {
 	font-size: 1rem;
 	line-height: 20px;
@@ -378,6 +384,9 @@ hr {
 
 .faq-block-text {
 	margin-bottom: 146px;
+	font-size: 14px;
+	line-height: 24px;
+	color: rgba(7, 22, 41, 0.501584);
 }
 
 .faq-block-text-last {
@@ -476,6 +485,28 @@ hr {
 
 	.signal-text {
 		width: 210px;
+	}
+
+	.faq-section {
+		max-width: 570px;
+	}
+
+	.faq-block-title-2 {
+		margin-top: 74px;
+	}
+
+	.faq-block-title-3,
+	.faq-block-title-4 {
+		margin-top: 74px;
+	}
+
+	.faq-block-text {
+		margin-bottom: 0;
+	}
+
+	.faq-block-text-3,
+	.faq-block-text-last {
+		margin-bottom: 110px;
 	}
 }
 
@@ -580,6 +611,33 @@ hr {
 
 	.signal-text {
 		width: 350px;
+	}
+
+	.faq-section {
+		max-width: 920px;
+	}
+
+	.faq-block {
+		max-width: 342px;
+	}
+
+	.faq-block-title-2 {
+		margin-top: 74px;
+	}
+
+	.faq-block-title-3,
+	.faq-block-title-4 {
+		margin-top: 74px;
+	}
+
+	.faq-block-text {
+		max-width: 350px;
+		margin-bottom: 0;
+	}
+
+	.faq-block-text-3,
+	.faq-block-text-last {
+		margin-bottom: 127px;
 	}
 }
 
