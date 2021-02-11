@@ -303,7 +303,7 @@ button {
 
 .package-price,
 .monthly-price {
-	margin: 0;
+	margin-bottom: 0;
 }
 
 .package-price {
@@ -342,8 +342,17 @@ hr {
 	opacity: 0.2;
 }
 
+.feature-text-1 {
+	font-weight: 400;
+}
+
 .toothbrush-row {
 	height: 54px;
+}
+
+.signal-text {
+	width: 175px;
+	margin-top: -55px;
 }
 
 /*** MEDIA QUERIES  ***/
@@ -419,6 +428,9 @@ hr {
 
 	.hero-content-pricing {
 		margin-top: 193px;
+		max-width: 690px;
+		padding-left: 0;
+		padding-right: 0;
 	}
 
 	.hero-section-title-pricing {
@@ -427,6 +439,10 @@ hr {
 
 	.package-price {
 		margin-top: 30px;
+	}
+
+	.monthly-price {
+		margin-bottom: 62px;
 	}
 }
 
@@ -509,6 +525,10 @@ hr {
 		margin-top: 60px;
 	}
 
+	.hero-section-pricing {
+		height: 1170px;
+	}
+
 	.hero-content-pricing {
 		margin-top: 192px;
 	}
@@ -519,6 +539,10 @@ hr {
 
 	.package-price {
 		margin-top: 30px;
+	}
+
+	.monthly-price {
+		margin-bottom: 62px;
 	}
 }
 
