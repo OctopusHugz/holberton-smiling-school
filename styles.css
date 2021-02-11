@@ -297,6 +297,10 @@ button {
 	color: #C271FF;
 }
 
+.cta-btn-pricing {
+	margin-top: 55px;
+}
+
 /*** MEDIA QUERIES  ***/
 
 /* Tablet Media Query */
