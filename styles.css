@@ -37,7 +37,6 @@ button {
 	margin-right: 0;
 }
 
-
 .hero-section-title {
 	font-size: 61px;
 	line-height: 77px;
@@ -271,6 +270,33 @@ button {
 	opacity: 0.35;
 }
 
+/*** PRICING PAGE ***/
+.hero-section-pricing {
+	height: 1277px;
+	background-image: url(images/pic_2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 53%;
+}
+
+.hero-content-pricing {
+	margin-top: 162px;
+}
+
+.hero-section-title-pricing {
+	margin-top: 49px;
+	font-size: 60px;
+	line-height: 75px;
+}
+
+.nav-list-pricing a {
+	color: white;
+}
+
+.nav-list-pricing a:hover {
+	color: #C271FF;
+}
+
 /*** MEDIA QUERIES  ***/
 
 /* Tablet Media Query */
@@ -340,6 +366,10 @@ button {
 
 	.copyright {
 		margin-top: 60px;
+	}
+
+	.hero-content-pricing {
+		margin-top: 193px;
 	}
 }
 
@@ -420,6 +450,10 @@ button {
 
 	.copyright {
 		margin-top: 60px;
+	}
+
+	.hero-content-pricing {
+		margin-top: 192px;
 	}
 }
 
