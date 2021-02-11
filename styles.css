@@ -329,11 +329,21 @@ button {
 }
 
 .price-time-period:first-child {
-	margin-left: 50.13%;
+	margin-left: calc(50.13% - 15px);
 }
 
 .price-time-period:last-child {
-	margin-right: 3.2%;
+	margin-right: calc(3.2% - 15px);
+}
+
+hr {
+	background-color: #FFFFFF;
+	mix-blend-mode: normal;
+	opacity: 0.2;
+}
+
+.toothbrush-row {
+	height: 54px;
 }
 
 /*** MEDIA QUERIES  ***/
