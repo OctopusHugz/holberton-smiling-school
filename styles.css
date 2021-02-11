@@ -261,6 +261,7 @@ button {
 
 .copyright {
 	height: 15px;
+	width: 6rem;
 	margin-top: 45px;
 	font-size: 12px;
 	line-height: 15px;
@@ -321,6 +322,20 @@ button {
 
 	.fm-smiles-btn button {
 		margin-top: 75px;
+	}
+
+	.footer-icon-container {
+		margin-left: 39px;
+		margin-right: 366px;
+		padding-top: 75px;
+	}
+
+	.footer-social-icons {
+		margin-top: 109px;
+	}
+
+	.copyright {
+		margin-top: 60px;
 	}
 }
 
