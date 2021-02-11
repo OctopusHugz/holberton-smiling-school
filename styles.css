@@ -375,6 +375,10 @@ button {
 	.hero-content-pricing {
 		margin-top: 193px;
 	}
+
+	.hero-section-title-pricing {
+		margin-top: 75px;
+	}
 }
 
 /* Desktop Media Query */
@@ -458,6 +462,10 @@ button {
 
 	.hero-content-pricing {
 		margin-top: 192px;
+	}
+
+	.hero-section-title-pricing {
+		margin-top: 75px;
 	}
 }
 
