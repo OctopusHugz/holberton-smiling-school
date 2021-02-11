@@ -301,6 +301,41 @@ button {
 	margin-top: 55px;
 }
 
+.package-price,
+.monthly-price {
+	margin: 0;
+}
+
+.package-price {
+	font-size: 44px;
+	line-height: 55px;
+	margin-top: 11px;
+}
+
+.monthly-price {
+	font-size: 12px;
+	line-height: 15px;
+	mix-blend-mode: normal;
+	opacity: 0.5;
+}
+
+.mobile-pricing-header {
+	margin-top: 51px;
+}
+
+.price-time-period {
+	font-size: 12px;
+	line-height: 15px;
+}
+
+.price-time-period:first-child {
+	margin-left: 50.13%;
+}
+
+.price-time-period:last-child {
+	margin-right: 3.2%;
+}
+
 /*** MEDIA QUERIES  ***/
 
 /* Tablet Media Query */
@@ -378,6 +413,10 @@ button {
 
 	.hero-section-title-pricing {
 		margin-top: 75px;
+	}
+
+	.package-price {
+		margin-top: 30px;
 	}
 }
 
@@ -466,6 +505,10 @@ button {
 
 	.hero-section-title-pricing {
 		margin-top: 75px;
+	}
+
+	.package-price {
+		margin-top: 30px;
 	}
 }
 
