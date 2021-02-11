@@ -393,6 +393,27 @@ hr {
 	margin-bottom: 108px;
 }
 
+/*** COURSES PAGE ***/
+.hero-section-courses {
+	min-height: 129px;
+	background-image: url(images/pic_3.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.hero-tagline {
+	width: 480px;
+	height: 70px;
+	margin-top: 31px;
+	font-size: 2rem;
+	line-height: 35px;
+	font-family: 'coiny';
+}
+
+.purple-smile-text {
+	color: #C271FF;
+}
+
 /*** MEDIA QUERIES  ***/
 
 /* Tablet Media Query */
@@ -507,6 +528,10 @@ hr {
 	.faq-block-text-3,
 	.faq-block-text-last {
 		margin-bottom: 110px;
+	}
+
+	.hero-section-courses {
+		height: 216px;
 	}
 }
 
@@ -638,6 +663,15 @@ hr {
 	.faq-block-text-3,
 	.faq-block-text-last {
 		margin-bottom: 127px;
+	}
+
+	.hero-section-courses {
+		background-size: cover;
+		height: 216px;
+	}
+
+	.hero-tagline {
+		margin-top: 30px;
 	}
 }
 
