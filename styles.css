@@ -355,6 +355,35 @@ hr {
 	margin-top: -55px;
 }
 
+.faq-section {
+	color: #071629;
+}
+
+.faq-title {
+	font-size: 60px;
+	line-height: 75px;
+	font-weight: 300;
+	padding-top: 74px;
+}
+
+.faq-block-title {
+	font-size: 1rem;
+	line-height: 20px;
+	margin-bottom: 30px;
+}
+
+.faq-block-title-1 {
+	margin-top: 74px;
+}
+
+.faq-block-text {
+	margin-bottom: 146px;
+}
+
+.faq-block-text-last {
+	margin-bottom: 108px;
+}
+
 /*** MEDIA QUERIES  ***/
 
 /* Tablet Media Query */
@@ -448,12 +477,6 @@ hr {
 	.signal-text {
 		width: 210px;
 	}
-
-	/* .grid-body .row:nth-child(1),
-	.grid-body .row:nth-child(2),
-	.grid-body .row:nth-child(3) {
-		height: 82px;
-	} */
 }
 
 /* Desktop Media Query */
