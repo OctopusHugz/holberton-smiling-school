@@ -435,6 +435,26 @@ hr {
 	color: #FFFFFF;
 }
 
+.dropdown {
+	width: 330px;
+	height: 76px;
+	margin-top: 19px;
+}
+
+.dropdown-title {
+	font-size: 12px;
+	line-height: 15px;
+}
+
+button.dropdown-toggle {
+	background-color: red;
+	mix-blend-mode: normal;
+	opacity: 0.25;
+	height: 51px;
+	font-size: 23px;
+	line-height: 29px;
+}
+
 /*** MEDIA QUERIES  ***/
 
 /* Tablet Media Query */
