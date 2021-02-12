@@ -419,9 +419,13 @@ hr {
 	height: 317px;
 }
 
+.search-container {
+	max-width: none;
+}
+
 .search-bar {
 	padding-top: 23px;
-	height: auto;
+	height: 33%;
 	/* mix-blend-mode: normal;
 	background-color: #FFFFFF;
 	opacity: 0.25; */
@@ -583,6 +587,10 @@ button.dropdown-toggle {
 	.search-filters-section {
 		height: 236px;
 	}
+
+	.search-bar {
+		height: 45%;
+	}
 }
 
 /* Desktop Media Query */
@@ -726,6 +734,10 @@ button.dropdown-toggle {
 
 	.search-filters-section {
 		height: 138px;
+	}
+
+	.search-bar {
+		height: 75%;
 	}
 }
 
