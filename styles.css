@@ -419,6 +419,22 @@ hr {
 	height: 317px;
 }
 
+.search-bar {
+	padding-top: 23px;
+	height: auto;
+	/* mix-blend-mode: normal;
+	background-color: #FFFFFF;
+	opacity: 0.25; */
+}
+
+.fa {
+	color: white;
+}
+
+.filter-title {
+	color: #FFFFFF;
+}
+
 /*** MEDIA QUERIES  ***/
 
 /* Tablet Media Query */
