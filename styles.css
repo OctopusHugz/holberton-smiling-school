@@ -464,6 +464,16 @@ button.dropdown-toggle {
 	margin-bottom: 28px;
 }
 
+/*** SEARCH RESULTS SECTION  ***/
+.number-results {
+	color: rgba(7, 22, 41, 0.296247);
+	font-size: 1rem;
+	line-height: 20px;
+	margin-bottom: 0;
+	width: 63px;
+	margin-top: 2rem;
+}
+
 /*** MEDIA QUERIES  ***/
 
 /* Tablet Media Query */
@@ -590,6 +600,10 @@ button.dropdown-toggle {
 
 	.search-bar {
 		height: 45%;
+	}
+
+	.number-results {
+		margin-top: 34px;
 	}
 }
 
@@ -738,6 +752,10 @@ button.dropdown-toggle {
 
 	.search-bar {
 		height: 75%;
+	}
+
+	.number-results {
+		margin-top: 47px;
 	}
 }
 
