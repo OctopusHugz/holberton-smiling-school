@@ -447,8 +447,9 @@ hr {
 }
 
 button.dropdown-toggle {
-	background-color: red;
-	mix-blend-mode: normal;
+	color: white;
+	background-color: #FFFFFF;
+	background-blend-mode: normal;
 	opacity: 0.25;
 	height: 51px;
 	font-size: 23px;
