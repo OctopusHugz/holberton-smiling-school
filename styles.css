@@ -474,6 +474,10 @@ button.dropdown-toggle {
 	margin-top: 2rem;
 }
 
+.last-results-row {
+	margin-bottom: 63px;
+}
+
 /*** MEDIA QUERIES  ***/
 
 /* Tablet Media Query */
@@ -604,6 +608,10 @@ button.dropdown-toggle {
 
 	.number-results {
 		margin-top: 34px;
+	}
+
+	.last-results-row {
+		margin-bottom: 75px;
 	}
 }
 
@@ -756,6 +764,10 @@ button.dropdown-toggle {
 
 	.number-results {
 		margin-top: 47px;
+	}
+
+	.last-results-row {
+		margin-bottom: 75px;
 	}
 }
 
